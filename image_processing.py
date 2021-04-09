@@ -1,7 +1,3 @@
-# Author: Yuyan Chen
-# McGill ID: 260883741
-# Assignment 4
-
 import random
 import numpy as np
 import skimage.io as io
